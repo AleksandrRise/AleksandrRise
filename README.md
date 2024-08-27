@@ -9,8 +9,6 @@
 
 - 📫 How to reach me **aleks.usbuz@gmail.com**
 
-- ⚡ Fun fact **People think I work too much. Meanwhile, I still cannot contribute at least 10 hours a day.**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/aleks_usbuz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aleks_usbuz" height="30" width="40" /></a>
