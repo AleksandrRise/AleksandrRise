@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Aleksandr</h1>
 <h3 align="center">A passionate full-stack developer at CC in the United States</h3>
 
-- 🌱 I’m currently learning **frontend + backend (Java) + database + math (for AI)**
+- 🌱 I’m currently learning **Web Development & Math for AI**
 
-- 👨‍💻 All of my projects are available at [https://github.com/AleksandrRise](https://github.com/AleksandrRise)
+- 👨‍💻 All of my links are available [here](https://linktr.ee/aleksershov)
 
-- 💬 Ask me about **collaborations, hiring**
+- 💬 Text me for **collaborations, hiring**
 
 - 📫 How to reach me **aleks.usbuz@gmail.com**
 
