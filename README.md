@@ -3,7 +3,8 @@
 
 ## 🤠 About Me 🤠
 I am **Aleksandr Ershov** - a Full-Stack Software Developer and an international student in San José, CA, USA.<br>
-Around 1+ years of technical experience and San José State University student majoring in software engineering.
+Around 1+ years of technical experience and San José State University student majoring in software engineering.<br>
+I love being valuable to others and inspiring them to push their limits!
 
 ---
 
