@@ -3,15 +3,15 @@
 
 ## 🤠 About Me 🤠
 I am **Aleksandr Ershov** - a Full-Stack Software Developer and an international student in San José, CA, USA.<br>
-Around 1+ years of technical experience. Check out my [LinkTree](https://linktr.ee/aleksershov) for more info.
+Around 1+ years of technical experience and San José State University student majoring in software engineering.
 
 ---
 
 ## 🚀 Interests 🚀
-**Coding (obviously)** - creating, assisting, learning
-**Hiking** - dreaming to hike Swiss trails
-**Gym** - cycling for cardio, lifting weights for muscles
-**Traveling** - best way to spend a vacation
+**Coding (obviously)** - creating, assisting, learning<br>
+**Hiking** - dreaming to hike Swiss trails<br>
+**Gym** - cycling for cardio, lifting weights for muscles<br>
+**Traveling** - best way to spend a vacation<br>
 
 ---
 
